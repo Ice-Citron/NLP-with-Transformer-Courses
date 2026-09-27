@@ -1,6 +1,6 @@
 # Natural Language Processing with Transformers — Study Notebooks
 
-This repostiroy contains my Jupyter notebooks for O'Reilly's *Natural Language 
+This repository contains my Jupyter notebooks for O'Reilly's *Natural Language 
 Processing with Transformers*, by Lewis Tunstall, Leandro von Werra, and Thomas Wolf.
 
 I worked through the book examples in Google Colab and added detailed
